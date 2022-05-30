@@ -1,0 +1,545 @@
+/* Normal desktop :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+    /*course sidebar info css*/
+
+    .header-top-right .login-btn {
+        font-size: 14px;
+    }
+
+    .primary-menu>ul>li>a {
+        font-size: 14px;
+    }
+
+    .skill-box .skill-box__list .single-progress-box {
+        font-size: 20px;
+    }
+
+    .course-content-accordion .accordion-item {
+        margin-right: 0;
+    }
+
+    .event-area .event-section-title h2 {
+        font-size: 36px;
+    }
+
+    .curriculum-content-left h2,
+    .register-form-area .register-form-title h2,
+    .course-banner-content h2 {
+        font-size: 40px;
+    }
+}
+
+
+/* Normal desktop :992px. */
+
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    /*course details area css*/
+    .course-details-area {
+        padding: 80px 0 35px 0;
+    }
+
+    .course-details-area .course-details-img img {
+        margin: 60px 0 75px 0;
+    }
+
+    .course-details-area .course-details-title {
+        margin-top: 60px;
+        font-size: 28px;
+    }
+
+    .course-widget-wrapper {
+        margin-top: 0;
+    }
+
+    .instructors-content {
+        margin-bottom: 50px;
+    }
+
+    .header-top-right .login-btn {
+        font-size: 14px;
+    }
+
+    .primary-menu>ul>li>a {
+        font-size: 14px;
+    }
+
+    .course-category strong {
+        font-size: 12px;
+    }
+
+    .course-buy-btn {
+        font-size: 12px;
+    }
+
+    .course-buy-btn svg {
+        font-size: 20px;
+    }
+
+    .course-content-details {
+        padding: 15px;
+    }
+
+    .course-content-details h3 {
+        font-size: 20px;
+    }
+
+    .course-content-details p {
+        font-size: 14px;
+        line-height: normal;
+    }
+
+    .course-price {
+        font-size: 20px;
+    }
+
+    .course-buy-btn {
+        padding: 12px;
+    }
+
+    .skill-box .skill-box__list .single-progress-box {
+        font-size: 16px;
+    }
+
+    .course-widget-details .course-price {
+        font-size: 20px;
+    }
+
+    .curriculum-content-left h2,
+    .register-form-area .register-form-title h2 {
+        font-size: 36px;
+    }
+
+    .hero-slide-content h1 {
+        font-size: 46px;
+    }
+
+    .select_wrap_2 .default_option_2 li {
+        padding: 12px 25px;
+    }
+
+    a._adcb {
+        height: 570px;
+    }
+
+    .course-thumb .course-tag {
+        font-size: 12px;
+        padding: 6px 8px;
+    }
+
+    .event-area .event-section-title h2 {
+        font-size: 36px;
+    }
+
+    .event-area .event-section-title a.view-all-btn {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .event-area .small-event-view .small-event-view-single .small-event-view-single-content {
+        padding: 0px 20px 30px 20px;
+    }
+
+    section.search-area .insted-logo-text img {
+        max-height: 115px;
+    }
+
+    .section-title h2 {
+        font-size: 30px;
+    }
+}
+
+
+/* Tablet desktop :768px. */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .course-content-box:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    .course-content-skils-box:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    .curriculam-label:not(:last-child) {
+        margin-right: 10px;
+    }
+
+    /*course sidebar info css*/
+    .category-service .item {
+        margin-left: 5px;
+        margin-bottom: 12px;
+    }
+
+    /*course details area css*/
+    .course-details-area {
+        padding: 60px 0 35px 0;
+    }
+
+    .course-details-area .course-details-img img {
+        margin: 30px 0 45px 0;
+    }
+
+    .course-details-area .course-details-title {
+        margin-top: 30px;
+    }
+
+    .course-details-area .course-details-title {
+        margin-bottom: 25px;
+    }
+
+    .course-widget-wrapper {
+        margin-top: 0;
+    }
+
+    .instructors-content {
+        margin-bottom: 30px;
+    }
+
+    .course-banner-content h2 {
+        font-size: 38px;
+        margin-bottom: 15px;
+    }
+
+    .course-details-area .course-heading h2 {
+        margin-bottom: 25px;
+    }
+
+    .course-details-area .course-review-item {
+        margin-bottom: 20px;
+    }
+
+
+    /* ******** */
+    .curriculum-content-left h2 {
+        font-size: 36px;
+    }
+
+    .sign-up-today-area .sign-up-today-content-right {
+        text-align: left;
+    }
+
+    .sign-up-today-area .sign-up-today-content-left h2 {
+        margin-bottom: 25px;
+    }
+
+    .register-form-area .register-form-title h2 {
+        font-size: 36px;
+    }
+
+    .testimonial-single {
+        flex-direction: column;
+    }
+
+    .testimonial-single img {
+        max-height: 405px;
+        object-fit: contain;
+    }
+
+    .devider {
+        display: none;
+    }
+
+    .course-buy-btn {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .course-price {
+        font-size: 20px;
+    }
+
+    section.search-area .insted-logo-text img {
+        max-height: 100px;
+    }
+
+    .event-area .event-section-title h2 {
+        font-size: 36px;
+    }
+
+    .course-widget-details .course-price {
+        font-size: 20px;
+    }
+    .modal-body img {max-height: 300px;}
+
+
+}
+
+
+/* small mobile :320px. */
+
+@media (max-width: 767px) {
+    .curriculam-top-label {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .curriculam-label:not(:last-child) {
+        margin-right: 0px;
+    }
+
+    .curriculam-label {
+        margin-bottom: 10px;
+    }
+
+    .course-content-box {
+        width: 100%;
+    }
+
+    .course-content-wrapper {
+        flex-direction: column;
+    }
+
+    .course-content-box:not(:last-child) {
+        margin-right: 0px;
+    }
+
+    .course-content-box {
+        margin-bottom: 10px;
+    }
+
+    .course-content-skils-wrapper.d-flex.justify-content-between {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .course-content-skils-box:not(:last-child) {
+        margin-right: 0px;
+    }
+
+    .course-content-skils-box {
+        margin-bottom: 10px;
+    }
+
+    /*course sidebar info css*/
+    .category-service .item {
+        margin-left: 5px;
+        margin-bottom: 12px;
+    }
+
+    /*course details area css*/
+    li.breadcrumb-item {
+        font-size: 17px;
+    }
+
+    .breadcrumb-title nav ol li:last-child span {
+        font-size: 17px;
+    }
+
+    .course-banner-content h2 {
+        font-size: 30px;
+        line-height: 1.3;
+    }
+
+    .course-banner-content p {
+        font-size: 18px;
+        line-height: 26px;
+        margin-bottom: 8px;
+    }
+
+    .course-banner-area {
+        padding: 70px 0 70px 0;
+    }
+
+    .course-details-area {
+        padding: 50px 0 0px 0;
+    }
+
+    .course-details-area .course-heading h2 {
+        margin-bottom: 10px;
+    }
+
+    .course-details-area .course-details-img img {
+        margin: 20px 0 33px 0;
+    }
+
+    .course-details-area .course-details-title {
+        margin-top: 0px;
+    }
+
+    .course-details-area .course-details-title {
+        margin-bottom: 30px;
+    }
+
+    .course-details-area .course-learn-expect-title h4 {
+        font-size: 22px;
+    }
+
+    .course-widget-wrapper {
+        margin-top: 0px;
+    }
+
+    .course-curriculam-text ul {
+        margin-top: 0px;
+    }
+
+    .course-curriculam-text span a {
+        float: right;
+    }
+
+    .course-curriculam-text {
+        margin-bottom: 50px;
+    }
+
+    .accordion-button {
+        font-size: 17px;
+    }
+
+    div#course-faq {
+        margin-bottom: 30px;
+    }
+
+    .course-details-area .course-review-item p {
+        font-size: 16px;
+    }
+
+    .course-details-area .course-review-list h5 {
+        font-size: 18px;
+    }
+
+    .course-details-area .course-review-time span {
+        margin-bottom: 8px;
+    }
+
+    .course-instructors {
+        margin-top: 35px;
+    }
+
+    .course-details-area .instructors-heading {
+        margin-bottom: 10px;
+    }
+
+    .course-details-area .course-heading h2 {
+        font-size: 22px;
+    }
+
+    .course-details-area .course-details-title {
+        font-size: 22px;
+    }
+
+    .course-curriculam-text span a {
+        float: left;
+    }
+
+    .course-details-area .instructors-heading {
+        gap: 20px;
+    }
+
+    .instructors-content {
+        margin-bottom: 30px;
+    }
+
+    .course-details-area .course-review-time span {
+        font-size: 17px;
+    }
+
+    .sign-up-today-area .sign-up-today-content-right {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .sign-up-today-area {
+        text-align: center;
+    }
+
+    .curriculum-content-left h2 {
+        font-size: 30px;
+    }
+
+    .register-form-area .register-form-title h2 {
+        font-size: 30px;
+    }
+
+    .sign-up-today-area {
+        padding: 0 0 70px 0;
+    }
+
+    .event-area .event-section-title {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .event-area .event-section-title h2 {
+        font-size: 30px;
+    }
+
+    .event-area .large-event-view .large-event-view-single .large-event-view-single-thumb {
+        height: 100% !important;
+    }
+
+    .event-area {
+        padding: 50px 0;
+    }
+
+    section.search-area {
+        padding: 50px 0 80px 0;
+    }
+
+    .register-form-area .devider {
+        display: none;
+    }
+
+    .register-form-area {
+        padding: 50px 0;
+    }
+
+    .testimonial-single {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+
+    .hero-slide-btns a.active {
+        margin-right: 0;
+    }
+
+    .trending-course-title a {
+        font-size: 14px;
+    }
+
+    .course-buy-btn {
+        font-size: 14px;
+        padding: 10px 20px;
+    }
+
+    .sign-up-today-area .sign-up-today-content-left h2 {
+        font-size: 24px;
+    }
+
+    .sign-up-today-area .sign-up-today-content-right a {
+        font-size: 14px;
+    }
+
+    section.search-area .insted-logo-text img {
+        max-height: 100px;
+    }
+}
+
+.event-area .small-event-view .small-event-view-single .small-event-view-single-content {
+    padding-bottom: 20px;
+}
+
+.event-area .small-event-view .small-event-view-single .small-event-view-single-content .event-category strong {
+    font-size: 12px;
+}
+
+.single-service-wrap h6 {
+    font-size: 14px;
+}
+
+.course-banner-content h2 {
+    font-size: 30px !important;
+}
+
+.view-all-btn {
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {}
